@@ -1,0 +1,15 @@
+{
+  "name": "demo-json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
